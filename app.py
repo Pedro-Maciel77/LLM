@@ -19,7 +19,7 @@ from google import genai
 from google.genai import types
 
 ARQUIVO_JSON = Path(__file__).parent / "base_conhecimento.json"
-MODELO = "gemini-2.5-flash"
+MODELO = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 MAX_TRECHOS = 5
 
 STOPWORDS = {
