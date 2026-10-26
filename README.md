@@ -59,3 +59,7 @@ Se preferir não usar variável de ambiente, cole a chave no campo da barra late
 - **Outro tema:** troque o conteúdo do JSON e os dados de `empresa`.
 - **Outro LLM:** só a função `perguntar_llm` em `app.py` precisa mudar.
 - **Ver a busca funcionando:** marque "Mostrar trechos consultados no JSON" na barra lateral.
+
+## Exemplo 
+
+![Exemplo](image.png)
