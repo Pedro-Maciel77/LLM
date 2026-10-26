@@ -1,0 +1,177 @@
+{
+  "empresa": {
+    "nome": "Game Point",
+    "ramo": "Loja de jogos e videogames (física e online)",
+    "atendente": "Lia"
+  },
+  "itens": [
+    {
+      "id": 1,
+      "categoria": "institucional",
+      "palavras_chave": ["game point", "loja", "sobre", "quem", "empresa", "historia", "conhecer"],
+      "informacao": "A Game Point é uma loja de jogos e videogames fundada em 2018. Vendemos consoles, jogos, acessórios e cartões digitais, tanto na loja física quanto no site. Nosso lema é: 'Todo mundo merece jogar'."
+    },
+    {
+      "id": 2,
+      "categoria": "contato",
+      "palavras_chave": ["horario", "funcionamento", "abre", "fecha", "aberto", "domingo", "sabado", "feriado"],
+      "informacao": "A loja física funciona de segunda a sábado, das 10h às 21h, e aos domingos e feriados, das 12h às 19h. O site e o atendimento online ficam disponíveis 24 horas por dia."
+    },
+    {
+      "id": 3,
+      "categoria": "contato",
+      "palavras_chave": ["endereco", "onde", "localizacao", "fica", "chegar", "loja fisica", "estacionamento"],
+      "informacao": "A loja física fica na Rua das Fases, 256, Centro, no Shopping Pixel, 2º piso. O shopping tem estacionamento, e a primeira hora é gratuita para clientes da Game Point (basta validar o ticket no caixa)."
+    },
+    {
+      "id": 4,
+      "categoria": "contato",
+      "palavras_chave": ["contato", "telefone", "whatsapp", "email", "falar", "atendimento", "suporte"],
+      "informacao": "Contatos da Game Point: WhatsApp (11) 91234-5678, telefone (11) 3456-7890 e e-mail atendimento@gamepoint.com.br. O atendimento humano funciona de segunda a sexta, das 9h às 18h."
+    },
+    {
+      "id": 5,
+      "categoria": "consoles",
+      "palavras_chave": ["playstation", "ps5", "console", "sony", "preco", "valor", "comprar"],
+      "informacao": "PlayStation 5 (versão com leitor de disco, 825 GB): R$ 3.899,00 à vista ou 10x de R$ 389,90 sem juros. Acompanha 1 controle DualSense e cabos. Disponível em estoque."
+    },
+    {
+      "id": 6,
+      "categoria": "consoles",
+      "palavras_chave": ["xbox", "series", "series s", "series x", "microsoft", "console", "preco", "valor"],
+      "informacao": "Xbox Series S (512 GB): R$ 2.499,00 à vista ou 10x de R$ 249,90 sem juros. Xbox Series X (1 TB): R$ 4.199,00 à vista ou 10x de R$ 419,90 sem juros. Ambos acompanham 1 controle sem fio. Séries X com poucas unidades em estoque."
+    },
+    {
+      "id": 7,
+      "categoria": "consoles",
+      "palavras_chave": ["nintendo", "switch", "portatil", "console", "preco", "valor", "oled"],
+      "informacao": "Nintendo Switch OLED (64 GB): R$ 2.299,00 à vista ou 10x de R$ 229,90 sem juros. Nintendo Switch Lite: R$ 1.499,00 à vista. Ambos têm garantia de 12 meses."
+    },
+    {
+      "id": 8,
+      "categoria": "jogos",
+      "palavras_chave": ["jogo", "jogos", "ps5", "playstation", "lancamento", "preco", "midia fisica"],
+      "informacao": "Jogos de PlayStation 5 em mídia física: lançamentos a partir de R$ 299,90, jogos de catálogo a partir de R$ 149,90 e clássicos 'Platinum' a partir de R$ 99,90."
+    },
+    {
+      "id": 9,
+      "categoria": "jogos",
+      "palavras_chave": ["jogo", "jogos", "xbox", "lancamento", "preco", "midia fisica"],
+      "informacao": "Jogos de Xbox em mídia física: lançamentos a partir de R$ 279,90 e jogos de catálogo a partir de R$ 129,90. Também vendemos Game Pass em cartão digital."
+    },
+    {
+      "id": 10,
+      "categoria": "jogos",
+      "palavras_chave": ["jogo", "jogos", "nintendo", "switch", "familia", "criancas", "preco", "cartucho"],
+      "informacao": "Jogos de Nintendo Switch em cartucho: a partir de R$ 249,90. Temos uma seleção de jogos para toda a família e para jogar em grupo. Consulte a loja para ver as opções com classificação livre."
+    },
+    {
+      "id": 11,
+      "categoria": "jogos",
+      "palavras_chave": ["classificacao", "idade", "crianca", "crianças", "menor", "indicativa", "presente", "filho"],
+      "informacao": "Todos os jogos possuem classificação indicativa de idade, informada na página do produto e na embalagem. Nossa equipe ajuda a escolher jogos adequados para cada idade; basta perguntar na loja ou pelo WhatsApp."
+    },
+    {
+      "id": 12,
+      "categoria": "acessorios",
+      "palavras_chave": ["controle", "joystick", "dualsense", "acessorio", "extra", "preco"],
+      "informacao": "Controles extras: DualSense (PS5) por R$ 449,90, controle Xbox sem fio por R$ 399,90 e Joy-Con (Switch) em par por R$ 469,90. Temos várias cores disponíveis."
+    },
+    {
+      "id": 13,
+      "categoria": "acessorios",
+      "palavras_chave": ["headset", "fone", "audio", "microfone", "acessorio", "preco", "gamer"],
+      "informacao": "Headsets gamer: modelos sem fio a partir de R$ 349,90 e modelos com fio a partir de R$ 149,90. São compatíveis com PS5, Xbox, Switch e PC. Todos têm 6 meses de garantia."
+    },
+    {
+      "id": 14,
+      "categoria": "acessorios",
+      "palavras_chave": ["cartao", "memoria", "ssd", "armazenamento", "espaco", "hd", "expansao"],
+      "informacao": "Armazenamento extra: SSD de expansão para PS5 de 1 TB por R$ 799,90 e cartões microSD para Switch de 128 GB por R$ 99,90 e 256 GB por R$ 169,90."
+    },
+    {
+      "id": 15,
+      "categoria": "cartoes_digitais",
+      "palavras_chave": ["cartao digital", "gift card", "psn", "xbox live", "eshop", "credito", "codigo", "digital", "game pass", "assinatura"],
+      "informacao": "Vendemos cartões digitais de PSN, Xbox (incluindo Game Pass) e Nintendo eShop, nos valores de R$ 50, R$ 100 e R$ 200. O código é enviado por e-mail em até 15 minutos após a confirmação do pagamento."
+    },
+    {
+      "id": 16,
+      "categoria": "pagamento",
+      "palavras_chave": ["pagamento", "pagar", "cartao", "pix", "boleto", "parcelar", "parcelamento", "juros", "credito", "debito"],
+      "informacao": "Formas de pagamento: Pix (5% de desconto), cartão de crédito em até 10x sem juros para compras acima de R$ 500 (abaixo disso, até 3x sem juros), cartão de débito e boleto bancário (somente no site, com 3% de desconto)."
+    },
+    {
+      "id": 17,
+      "categoria": "entrega",
+      "palavras_chave": ["entrega", "frete", "prazo", "envio", "correios", "receber", "chegar", "demora", "gratis"],
+      "informacao": "Entregamos em todo o Brasil. O prazo é de 2 a 5 dias úteis para a capital e região metropolitana, e de 5 a 10 dias úteis para as demais regiões. Frete grátis para compras acima de R$ 299,00 nas regiões Sul e Sudeste."
+    },
+    {
+      "id": 18,
+      "categoria": "entrega",
+      "palavras_chave": ["retirar", "retirada", "buscar", "loja", "retirar na loja", "gratis", "pegar"],
+      "informacao": "A retirada na loja física é grátis. Para pedidos feitos pelo site, a retirada fica disponível em até 2 horas após a confirmação do pagamento, mediante documento com foto."
+    },
+    {
+      "id": 19,
+      "categoria": "entrega",
+      "palavras_chave": ["rastrear", "rastreio", "codigo", "pedido", "onde esta", "acompanhar", "status"],
+      "informacao": "Após o envio, você recebe o código de rastreio por e-mail e WhatsApp. Também é possível acompanhar o pedido no site, na área 'Meus Pedidos', com o número do pedido e o CPF."
+    },
+    {
+      "id": 20,
+      "categoria": "trocas",
+      "palavras_chave": ["troca", "trocar", "devolucao", "devolver", "arrependimento", "reembolso", "estorno", "prazo"],
+      "informacao": "Compras feitas online podem ser devolvidas em até 7 dias corridos após o recebimento, por arrependimento, com reembolso integral. O produto deve estar lacrado ou sem uso, com nota fiscal e embalagem original. Nas compras na loja física, a troca é aceita em até 30 dias somente para produtos lacrados ou com defeito."
+    },
+    {
+      "id": 21,
+      "categoria": "trocas",
+      "palavras_chave": ["jogo digital", "codigo", "cartao digital", "devolucao", "troca", "resgatado", "midia aberta", "aberto"],
+      "informacao": "Cartões e códigos digitais não podem ser trocados nem devolvidos depois de enviados ou resgatados. Jogos em mídia física com o lacre aberto só podem ser trocados em caso de defeito de fabricação."
+    },
+    {
+      "id": 22,
+      "categoria": "garantia",
+      "palavras_chave": ["garantia", "defeito", "quebrou", "assistencia", "conserto", "nao liga", "problema", "tecnica"],
+      "informacao": "Consoles têm 12 meses de garantia (3 meses legais + 9 meses estendidos pela Game Point). Acessórios têm 6 meses de garantia. Em caso de defeito, leve o produto com a nota fiscal à loja ou abra um chamado pelo WhatsApp. A garantia não cobre mau uso, quedas ou contato com líquidos."
+    },
+    {
+      "id": 23,
+      "categoria": "servicos",
+      "palavras_chave": ["usado", "usados", "seminovo", "troca de jogo", "vender", "trade in", "avaliacao", "console usado"],
+      "informacao": "A Game Point compra e vende jogos e consoles seminovos. A avaliação é feita na loja física, na hora, e o valor pode ser pago em crédito na loja (com 10% de bônus) ou em dinheiro. Os seminovos têm 90 dias de garantia."
+    },
+    {
+      "id": 24,
+      "categoria": "servicos",
+      "palavras_chave": ["reserva", "reservar", "pre-venda", "prevenda", "lancamento", "pre venda", "adiantado", "sinal"],
+      "informacao": "É possível reservar lançamentos na pré-venda, na loja ou no site, pagando 20% de sinal. O jogo é entregue ou fica disponível para retirada no dia do lançamento, e quem reserva pode ganhar brindes exclusivos enquanto durarem os estoques."
+    },
+    {
+      "id": 25,
+      "categoria": "promocoes",
+      "palavras_chave": ["promocao", "desconto", "cupom", "oferta", "black friday", "barato", "combo", "cashback"],
+      "informacao": "Promoções atuais: 5% de desconto no Pix, combo console + 2 jogos com 8% de desconto adicional e cupom BEMVINDO10 com 10% de desconto na primeira compra online (válido para compras acima de R$ 150,00). Cupons não são acumulativos."
+    },
+    {
+      "id": 26,
+      "categoria": "promocoes",
+      "palavras_chave": ["fidelidade", "pontos", "clube", "cadastro", "vip", "cliente", "beneficios", "game club"],
+      "informacao": "O Game Club é o programa de fidelidade gratuito da Game Point. A cada R$ 1 gasto, o cliente ganha 1 ponto, e 500 pontos viram R$ 25 de desconto. Membros também recebem aviso antecipado de promoções e de lançamentos. O cadastro é feito no site ou na loja com CPF."
+    },
+    {
+      "id": 27,
+      "categoria": "eventos",
+      "palavras_chave": ["evento", "torneio", "campeonato", "jogar", "experimentar", "teste", "demonstracao", "comunidade"],
+      "informacao": "Aos sábados, a partir das 15h, a loja física realiza torneios gratuitos e abertos ao público (como jogos de luta e de futebol). Também temos um espaço onde é possível testar consoles e jogos antes de comprar, sem compromisso."
+    },
+    {
+      "id": 28,
+      "categoria": "duvidas",
+      "palavras_chave": ["compatibilidade", "compativel", "regiao", "idioma", "portugues", "online", "assinatura", "multiplayer"],
+      "informacao": "Todos os produtos vendidos pela Game Point são da região do Brasil, com menus e legendas em português quando o jogo oferece esse idioma. Para jogar online, alguns jogos exigem assinatura do serviço do console (PS Plus, Game Pass ou Nintendo Switch Online), que vendemos em cartões digitais."
+    }
+  ]
+}
